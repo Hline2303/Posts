@@ -30,4 +30,21 @@ h1 {
   padding: 20px;
 }
 
+.posts {
+  background-color: white;
+  padding: 20px;
+}
 
+.post-titre {
+  font-size: 3rem;
+  color: orange;
+  padding-top: 20px;
+}
+
+.post-extrait {
+  font-size: 2rem;
+}
+
+.post-hashtag {
+  font-weight: 900;
+}
